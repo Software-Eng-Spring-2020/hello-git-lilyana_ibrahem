@@ -8,7 +8,6 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="il.ac.haifa.cs.sweng.HelloGit.PrimaryController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
@@ -34,7 +33,7 @@
                   <Font size="31.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Just add your stuff in the about dialog :)" VBox.vgrow="ALWAYS" />
+            <Label alignment="CENTER" maxWidth="1.7976931348623157E308" prefHeight="17.0" prefWidth="111.0" text="Hello! My name is Lilyana :)" VBox.vgrow="ALWAYS" />
          </children>
       </VBox>
    </center>
